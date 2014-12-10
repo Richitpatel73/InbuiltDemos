@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/itemAboutUs" android:title="About Us"></item>
+    <item android:id="@+id/itemHelp" android:title="Help"></item>
+    <item android:id="@+id/itemFAQ" android:title="FAQ"></item>
+    <item android:id="@+id/itemContactUs" android:title="Contact Us"></item>
+    
+
+</menu>

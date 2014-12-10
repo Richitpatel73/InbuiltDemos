@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.allinone.OptionItemActivity"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center" >
+
+    <TextView
+        android:id="@+id/tvOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Options Item Selection Resulting Activity"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center"
+        android:layout_margin="20dp" />
+
+</LinearLayout>
